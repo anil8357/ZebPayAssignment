@@ -41,6 +41,14 @@ KList.build {
 ```
 ---
 
+## How to Run
+
+- Clone the repository
+- Open in Android Studio
+- Run KListDemo() inside your Compose Preview or Activity
+
+---
+
 ## Known Improvements / Future Enhancements
 
 - Sticky headers support
