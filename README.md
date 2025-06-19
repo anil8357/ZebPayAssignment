@@ -4,7 +4,7 @@ This project implements a custom List DSL inspired by the Jetpack Compose `Modif
 
 ---
 
-## ✨ Features
+## Features
 
 - Fully chainable fluent API using Kotlin DSL
 - Multiple headers / sections support
@@ -16,7 +16,7 @@ This project implements a custom List DSL inspired by the Jetpack Compose `Modif
 
 ---
 
-## 📦 Usage Example
+## Usage Example
 
 ```kotlin
 KList.build {
@@ -38,3 +38,15 @@ KList.build {
         }
     }
 }
+```
+---
+
+## Known Improvements / Future Enhancements
+
+- Sticky headers support
+- Loading & empty state handling
+- Paging & infinite scrolling
+- Custom animations for item insertion/removal
+- Optional global list-level click modifier if needed
+
+
